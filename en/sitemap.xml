@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>/en/404.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/blog/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/code/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/contact/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/css/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/diet/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/feed.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/life/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/contact/message-sent/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/music/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/assets/css/preview.css</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/search.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/sitemap.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/staff/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/assets/css/styles.css</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/tips/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/travel/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/tutorial/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/en/category/work/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+        <url>
+            <loc>/en/pko-t5-dev-diary/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-08-24</lastmod>
+        </url>
+    
+    
+        <url>
+            <loc>/en/authors/dennispark/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PAUST TechBlog</title>
+    <description>All of things about tech in PAUST:w</description>
+    <link>/en/</link>
+    <atom:link href="/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Nov 2022 22:18:48 +0900</pubDate>
+    <lastBuildDate>Wed, 30 Nov 2022 22:18:48 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>pko-T5 Dev Case-study</title>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt; &lt;p&gt;PAUST has successfully developed Open-domain QA based on Korean with T5.&lt;/p&gt; &lt;p&gt;People have tried to utilize Facebook DPR and FiD to develop Open-domain QA.&lt;/p&gt; &lt;p&gt;There were Korean-based pre-training models for DPR, such as &lt;a href=&quot;https://huggingface.co/monologg/kobert&quot;&gt;monologg/koBERT&lt;/a&gt; and &lt;a href=&quot;https://huggingface.co/klue/roberta-base&quot;&gt;klue/roberta-base&lt;/a&gt;. However, for &lt;a href=&quot;https://github.com/facebookresearch/FiD&quot;&gt;FiD&lt;/a&gt;, we need an encoder-decoder model rather than an encoder-only model.&lt;/p&gt; &lt;p&gt;T5 and Bart are representing encoder-decoder models. We needed 2 conditions in the below when experimenting with utilizing the encoder-decoder model based on Korean.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Make it available to receive special characters by making tokenizer based on BBPE.&lt;/li&gt; &lt;li&gt;Make it based on &lt;a href=&quot;https://github.com/google-research/text-to-text-transfer-transformer/blob/main/released_checkpoints.md#t511&quot;&gt;T5 v1.1&lt;/a&gt; model.&lt;/li&gt;...</description>
+        <pubDate>Wed, 24 Aug 2022 20:21:00 +0900</pubDate>
+        <link>/en/pko-t5-dev-diary/</link>
+        <guid isPermaLink="true">/en/pko-t5-dev-diary/</guid>
+        
+        <category>modeling</category>
+        
+        <category>shaple</category>
+        
+        <category>blog</category>
+      </item>
+    
+  </channel>
+</rss>
